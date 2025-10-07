@@ -1,2 +1,0 @@
-# SQLProjects
-Sql projects 
